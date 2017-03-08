@@ -9,7 +9,7 @@ we could enable kerberos for the cluster from the cloudera manager admin console
 <strong> How do you upgrade the CM agents? </strong>
 After upgrading CM server, we could upgrade the agents using a upgrade wizard from the Admin console or manually install the CM agent packages 
 <strong> Give the tsquery statement used to chart Hue's CPU utilization? </strong>
-select cpu_user_rate where roleType=HUESERVER
+select cpu_user_rate where roleType=HUE_SERVER
 
 <strong> Name all the roles that make up the Hive service </strong>
 Gateway
