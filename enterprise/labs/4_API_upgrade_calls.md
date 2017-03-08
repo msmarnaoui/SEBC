@@ -1,5 +1,6 @@
 #Latest API 
  curl -u "msmarnaoui:cloudera" -i   http://35.167.64.53:7180/api/version
+
 <strong> 15 </strong>
 
 #CM version
