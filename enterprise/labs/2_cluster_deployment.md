@@ -1,3 +1,5 @@
+curl -u "msmarnaoui:cloudera" -i   http://35.167.64.53:7180/api/v2/cm/deployment
+
 ```json
 HTTP/1.1 200 OK
 Expires: Thu, 01-Jan-1970 00:00:00 GMT
