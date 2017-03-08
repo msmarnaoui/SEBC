@@ -1,3 +1,4 @@
+```json
 HTTP/1.1 200 OK
 Expires: Thu, 01-Jan-1970 00:00:00 GMT
 Set-Cookie: CLOUDERA_MANAGER_SESSIONID=1l3rtl9we6e7je0lt6ldqlj3o;Path=/;HttpOnly
@@ -895,3 +896,4 @@ Server: Jetty(6.1.26.cloudera.4)
     } ]
   }
 }
+```
